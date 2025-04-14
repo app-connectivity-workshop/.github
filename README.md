@@ -1,4 +1,4 @@
-== Safeguarding Application Connectivity for the Hybrid Cloud
+# Safeguarding Application Connectivity for the Hybrid Cloud
 
 Hybrid cloud environments offer enterprises with flexibility, scalability, and agility, but they also introduce significant connectivity and security challenges. Organizations must ensure systems and services can communicate effectively, securely and seamlessly - across on-premises, private, and public clouds
 
@@ -10,7 +10,7 @@ Some of the key challenges include:
 * Mismanagement of resources
 * Lack of visibility across hybrid  infrastructures
 
-== Workshop objectives 
+# Workshop objectives 
 
 In this workshop, we will guide you through Red Hat's connectivity solutions that can help enterprises secure and manage hybrid cloud application connectivity. Through a real-world enterprise scenario, you will learn how to:
 
@@ -22,6 +22,6 @@ In this workshop, we will guide you through Red Hat's connectivity solutions tha
 
 Through hands-on exercises, you'll gain practical experience in using  Red Hat Connectivity Link, Red Hat Service Interconnect, and Red Hat OpenShift Service Mesh to address these challenges and improve your hybrid cloud infrastructure's security and reliability.
 
-== Setting up this workshop
+# Setting up this workshop
 
 In your OpenShift cluster (tested on 4.17), run the Ansible playbook from this https://github.com/app-connectivity-workshop/acw-ansible
