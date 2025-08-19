@@ -25,3 +25,5 @@ Through hands-on exercises, you'll gain practical experience in using  Red Hat C
 # Setting up this workshop
 
 In your OpenShift cluster (tested on 4.17), run the Ansible playbook from this https://github.com/app-connectivity-workshop/acw-ansible
+
+Instructions preview: https://app-connectivity-workshop.github.io/showroom/
